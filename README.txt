@@ -1,0 +1,1 @@
+Versi no blank . Buka index.html setelah ekstrak ZIP. Nama tamu: tambahkan ?to=Nama+Tamu pada link.
